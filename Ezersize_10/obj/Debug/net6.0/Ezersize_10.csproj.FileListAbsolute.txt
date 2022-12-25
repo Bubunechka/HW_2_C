@@ -1,0 +1,15 @@
+/Users/alenakatanskaya/Desktop/HomeWork_2/Ezersize_10/bin/Debug/net6.0/Ezersize_10
+/Users/alenakatanskaya/Desktop/HomeWork_2/Ezersize_10/bin/Debug/net6.0/Ezersize_10.deps.json
+/Users/alenakatanskaya/Desktop/HomeWork_2/Ezersize_10/bin/Debug/net6.0/Ezersize_10.runtimeconfig.json
+/Users/alenakatanskaya/Desktop/HomeWork_2/Ezersize_10/bin/Debug/net6.0/Ezersize_10.dll
+/Users/alenakatanskaya/Desktop/HomeWork_2/Ezersize_10/bin/Debug/net6.0/Ezersize_10.pdb
+/Users/alenakatanskaya/Desktop/HomeWork_2/Ezersize_10/obj/Debug/net6.0/Ezersize_10.csproj.AssemblyReference.cache
+/Users/alenakatanskaya/Desktop/HomeWork_2/Ezersize_10/obj/Debug/net6.0/Ezersize_10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alenakatanskaya/Desktop/HomeWork_2/Ezersize_10/obj/Debug/net6.0/Ezersize_10.AssemblyInfoInputs.cache
+/Users/alenakatanskaya/Desktop/HomeWork_2/Ezersize_10/obj/Debug/net6.0/Ezersize_10.AssemblyInfo.cs
+/Users/alenakatanskaya/Desktop/HomeWork_2/Ezersize_10/obj/Debug/net6.0/Ezersize_10.csproj.CoreCompileInputs.cache
+/Users/alenakatanskaya/Desktop/HomeWork_2/Ezersize_10/obj/Debug/net6.0/Ezersize_10.dll
+/Users/alenakatanskaya/Desktop/HomeWork_2/Ezersize_10/obj/Debug/net6.0/refint/Ezersize_10.dll
+/Users/alenakatanskaya/Desktop/HomeWork_2/Ezersize_10/obj/Debug/net6.0/Ezersize_10.pdb
+/Users/alenakatanskaya/Desktop/HomeWork_2/Ezersize_10/obj/Debug/net6.0/Ezersize_10.genruntimeconfig.cache
+/Users/alenakatanskaya/Desktop/HomeWork_2/Ezersize_10/obj/Debug/net6.0/ref/Ezersize_10.dll
